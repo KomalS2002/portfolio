@@ -1,0 +1,139 @@
+body{
+    background-image: linear-gradient(to right,#a8886d, #fdfdde);
+    /* font-family: 'Satisfy', cursive; */
+    height: 100%;
+    /* font-family: 'Dancing Script', cursive; */
+    /* font-family: 'Playfair Display', serif; */
+    /* font-family: 'Abyssinica SIL', serif; */
+    font-family: 'Playfair Display', serif;
+
+}
+.header{
+    /* font-family: 'Satisfy', cursive; */
+    height: 60px;
+    width: 100%;
+    color: #503115;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+    opacity: 0.3;
+}
+h2{
+    width: 50%;
+    text-align: center;
+    color: #503115;
+}
+.main {
+    height: 500px;
+    width: 100%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    color: #503115;
+    font-family: 'Playfair Display', serif;
+
+}
+.images{
+    display: flex;
+    flex-direction: column;
+}
+.upper-design{
+    height: 100px;
+    width: auto;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+  .picture{
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 20px;
+    height: 360px;
+    width: 310px;
+    background-image: url(komal.png);
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    border: #503115 solid 5px;
+    opacity: 1;
+    
+  } 
+  .text{
+    height: 700px;
+    width: 60%;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 0;
+    font-size: 25px;
+   
+  }
+  .links{
+    height: 50px;
+    width: 280px;
+  
+   
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+  }
+  .fa-github{
+    height: 40px;
+    width: 40px;
+    color: #503115;
+    
+  }
+  .fa-linkedin-in{
+    height: 40px;
+    width: 40px;
+    size: 40px;
+    margin-left: 20px;
+    color: #503115;
+  }
+  .fa-instagram{
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+    color: #503115;
+}
+  .fa-facebook{
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+    color: #503115;
+  }
+  .bow{
+    height: 70px;
+    width: 150px;
+    margin-left: 180px;
+    margin-top: 0;
+    margin-right: 50px;
+  }
+  .lower-para{
+    font-size: 30px;
+    color: #503115;
+    padding: 20px;
+  }
+  .bottom{
+    display: flex;
+  }
+  .leaf{
+    margin-top: 60px;
+    margin-left: 300px;
+    height: 250px;
+  }
+  .tools{
+    color: #503115;
+    font-family: 'Playfair Display', serif;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 0;
+    font-size: 25px;
+  }
